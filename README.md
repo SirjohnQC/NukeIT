@@ -1,3 +1,4 @@
+[![NukeIT.png](https://i.postimg.cc/FHy6n1ZM/NukeIT.png)]
 NukeIT
 
 NukeIT is a PowerShell-based GUI application that allows users to quickly block or unblock multiple executable files from accessing the internet by creating Windows Firewall rules.
