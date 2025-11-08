@@ -314,6 +314,7 @@ SOFTWARE.
 ## 🙏 Acknowledgments
 
 - Built with PowerShell and Windows Forms
+- Used claude.ai for coding
 - Uses PS2EXE for executable conversion
 - Inspired by the need for simple, effective application and website blocking
 
